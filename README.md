@@ -1,6 +1,6 @@
 # A collection of Pass Time mods, maps, and configs.
 # [Mostly used for the EU Pass Time discord](https://passtime.tf/)
-# Explation of all folders included:
+# Explanation of all folders included:
 
 # Pass Time Maps Folder:
 * Just some maps that arent on tf2maps.net.
