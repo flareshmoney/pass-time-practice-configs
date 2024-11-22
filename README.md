@@ -1,9 +1,6 @@
-# A collection of Pass Time mods, maps, and configs.
+# A collection of Pass Time mods and configs.
 # [Mostly used for the EU Pass Time discord](https://passtime.tf/)
 # Explanation of all folders included:
-
-# Pass Time Maps Folder:
-* Just some maps that arent on tf2maps.net.
 
 # Various Mods Folder:
 * "Improved Pass Time chat_english.txt" is a improved version of the default chat_enligsh, removing a lot of clutter and not used mechanics.
@@ -15,4 +12,3 @@
 # Practice Configs Foldier:
 * "Passtime_practice.cfg" Practice config that can be used on all maps.
 * "Passtime_Practice_Arena.cfg" Practice config specifically made for Arena2.
-  
